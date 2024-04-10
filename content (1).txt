@@ -1,0 +1,10 @@
+1. Light Weight Highly Reliable Canvas Shoes. (use header tag)
+2. Place an Image
+3. Rs.00.00/- (use paragraph tag)
+4. Free shipping (use paragraph tag)
+5. Ready to dress up or down, these classic canvas shoes is an everyday wardrobe staple. (use paragraph tag)
+6. More information (use anchor tag)
+7. Product details (use header tag)
+8. Lightweight, durable canvas sneaker.
+   Lightly padded footbed for added comfort.
+   Iconic Chuck Taylor ankle patch. (use un-ordered list)
